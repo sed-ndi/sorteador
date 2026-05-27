@@ -63,4 +63,4 @@ Livre para uso pessoal e comercial.
 
 ---
 
-**Criado com ❤️ para facilitar sorteios e sortes de números**
+**Criado pelo Julio do setor NDI para facilitar sorteios de números**
